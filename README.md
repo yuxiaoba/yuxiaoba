@@ -17,9 +17,9 @@
 **📝 Selected Paper**
 
 <!-- BLOG-POST-LIST:START -->
--  [Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-Modal Observability Data](https://yuxiaoba.github.io/publication/nezha23/). In FSE'23.
--  [LogReducer: Identify and Reduce Log Hotspots inKernel on the Fly](https://yuxiaoba.github.io/publication/logreducer22/logreducer22.pdf). In ICSE'23.
--  [MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments](https://yuxiaoba.github.io/publication/microrank/microrank.pdf). In WWW'21.
+-  [Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-Modal Observability Data](https://yuxiaoba.github.io/publication/nezha23/). In FSE'23
+-  [LogReducer: Identify and Reduce Log Hotspots inKernel on the Fly](https://yuxiaoba.github.io/publication/logreducer22/logreducer22.pdf). In ICSE'23
+-  [MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments](https://yuxiaoba.github.io/publication/microrank/microrank.pdf). In WWW'21
 <!-- BLOG-POST-LIST:END -->
 
 
