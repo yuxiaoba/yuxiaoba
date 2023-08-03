@@ -12,8 +12,8 @@ I maintain a Github project about [Awesome cloud paper](https://github.com/Intel
 
 # Selected Papers
 
--  Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-Modal Observability Data. In FSE'23 (CCF A).
--  LogReducer: Identify and Reduce Log Hotspots inKernel on the Fly. In ICSE'23 (CCF A).
--  MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments. In WWW'21 (CCF A).
+-  Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-Modal Observability Data. In FSE'23.
+-  LogReducer: Identify and Reduce Log Hotspots inKernel on the Fly. In ICSE'23.
+-  MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments. In WWW'21.
 -  Microscaler: Cost-effective Scaling for Microservice Applications in the Cloud with an Online Learning Approach. In TCC.
 
