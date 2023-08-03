@@ -8,9 +8,9 @@
 
 - 🔭 I am a 4th year Ph.D. candidate at Sun Yat-Sen University, advised by Professor Pengfei Chen
 - 🌱 My research focus on perfornamce diagnose and optimization in distributed systems
-- 💬 I am interested in cloud native, microservice, observerbility, and AIOps
-- 📫 I am a Ph.D. software engineering student researcher at WeChat
-- ⚡  I am actively looking for faculty positions and post-doc opportunities in both China and North America
+- 📙 I am interested in cloud native, microservice, observerbility, and AIOps
+- 👨‍💻 I am a Ph.D. software engineering student researcher at WeChat
+- 🚀 I am actively looking for faculty positions and post-doc opportunities in both China and North America
 
 -------
 
